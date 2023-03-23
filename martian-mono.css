@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&display=swap');
+:root{
+    --font-primary:'Martian Mono', monospace;
+    --font-display:'Martian Mono', monospace;
+}
+
+/*Sidebar Username*/
+.name-3Vmqxm{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+
+/*Search Bar 'Find or Start a Conversation'*/
+.searchBar-3TnChZ .searchBarComponent-3N7dCG{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+/*CTRL+F Search Bar*/
+.search-2Mwzzq .DraftEditor-root{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+/*Account ID Text*/
+.text-xs-medium-311pdh, .text-xs-normal-3O7EaX{
+    font-size: 10px;
+}
+
+/*Message Text*/
+.markup-eYLPri{
+    font-size: 1rem;
+    line-height: 1.4rem;
+}
+
+/*Chat Username*/
+.username-h_Y3Us{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+/*Replied Message Text*/
+.executedCommand-14-SNW, .repliedMessage-3Z6XBG, .threadMessageAccessory-2W9mjC{
+    font-size: 0.7rem;
+}
+
+/*Chat Message Timestamp*/
+.cozy-VmLDNB .timestamp-p1Df1m{
+    font-size: 0.6rem;
+    line-height: 1rem;
+}
+
+/*Channel Name Sidebar*/
+.name-28HaxV{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/*Subtext / Activity Text*/
+.subtext-14b69p{
+    font-size: 10px;
+    font-weight: lighter;
+}
